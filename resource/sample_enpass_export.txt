@@ -1,0 +1,685 @@
+Title : Login1
+Username : branden
+Email : branden@email.com
+Password : password1
+Phone : 123456
+Url : url1
+Security question : What is a dog?
+Security answer : A cat
+Note : Some notes here
+
+Title : Credit card1
+Cardholder : Branden
+Type : Other
+Number : 1234567890
+CVC : 123
+PIN : 123456
+Expiry date : 11/19
+Valid from : Today
+Credit limit : $1000
+Withdrawal limit : $500
+Interest rate : 2%
+Issuing bank : Issued Bank
+Website : mybank.com
+Username : branden
+Login password : loginpassword
+Transaction password : transactionpassword
+Issued on : Today
+If lost, call : Me
+Note : Some notes2
+
+Title : Bank account1
+Bank name : MyBank
+Account holder : Branden
+Type : Savings
+Account number : 123456789
+Customer ID : 1234
+Routing number : 456798
+Branch name : MyBankBranch
+Branch code : 6543
+SWIFT : WhatIsSwift
+IBAN : WhatIsIban
+Branch address : 123 Fake Street
+Branch phone : 12312313
+Debit Card number : 987456321
+Type : Visa Card
+PIN : 9999999999
+CVV : 888
+Expiry date : 16/12
+Withdrawal limit : $100
+Website : thewebsite.com
+Username : Branden
+Login password : loginpassword1
+Transaction password : transactionpassword1
+Helpline : 1-800-helpme
+T-PIN : Mr.T-Pin
+Note : Some more notes 3
+
+Title : Insurance policy1
+Policy name : Policy007
+Company : InsureMe
+Policy holder : Branden
+Number : 987456654
+Type : Health Insurance
+Premium : Whynot
+Sum assured : Okay
+Issue date : Now
+Renewal date : Tomorrow
+Expiry date : Yesterday
+Term : 12
+Nominee : Me
+Customer ID : 1337
+Website : insureme.thanks
+Username : branden
+Password : password4
+Agent name : 007
+Helpline : 1-800-help!
+Note : More notes..4
+
+Title : Loan/Mortgage1
+Lender : MyBank
+Type : Loan
+Account number : 8974564
+Principal : Mr. Sanders
+Interest % : 80%
+Date : Now
+Term : 2
+Balance : $4
+Payment due : $5
+Asset : $2
+Phone : 8797897
+Website : helpmepayoffmyhouse.com
+Username : branden
+Password : password5
+Note : SOME MORE NOTES!5
+
+Title : Mutual fund1
+Fund name : Funds
+Fund type : Mutual?
+Launched on : Today
+Purchased on : Yesterday
+Quantity : 1337
+Purchased NAV : 478
+Current NAV : 4657
+Website : mutalzonezz.com
+Username : branden
+Password : password6
+Broker : Mr. Broke
+Phone : 157465675
+Note : More notes6
+
+Title : Stock investment1
+Symbol : Z
+Account number : 415674312
+Type : Stox
+Market : Market
+Launched on : Today
+Purchased on : Now
+Purchase price : $.001
+Quantity : 1337
+Current price : $200
+Website : wowsomanystox.com
+Username : branden
+Password : password7
+Broker : Mr. Broker
+Phone : 216489465
+Note : Some notes7
+
+Title : Other finance1
+Field 1 : Some other stuff
+Field 2 : Yeah
+Note : Notes 8
+
+Title : Database1
+Type : MYSQL
+Server : ServerYup
+Port : 7897
+Database : MyDB
+Username : branden
+Password : password9
+SID : 12343
+Alias : OddJob
+Options : No Thanks
+Note : N0tes 9
+
+Title : Email account1
+Email : me@myemail.com
+Username : branden
+Password : password9
+Type : email?
+POP3 server : Pop3rocks
+IMAP server : Imappo
+Port : 4567
+Security type : Mall
+Auth. method : Spritual energy
+Weblink : 56747657645
+SMTP server : 4567.04.044040.2
+Port : 467654
+Username : branden
+Password : password99
+Security type : Parking lot
+Auth. method : Random
+Provider : me
+Website : website.what
+Local phone : 16574576
+Helpline : 1-800-morehelpplease
+Note : Notes!!! 8
+
+Title : FTP account1
+Server : 156461423432
+Path : Finder
+Username : branden
+Password : password9
+Provider : George
+Website : George's website
+Phone : George's Phone number
+Note : Some notes george wrote
+
+Title : Instant messaging1
+Type : ICQ
+ID : cool_guy_xx1990
+Server : cool server
+Port : c001
+Nick name : coolDude_1990
+Username : branden
+Password : password10
+Note : notes lol 10
+
+Title : Internet provider1
+Username : brandenf
+Password : password11
+Dialup phone : 5641545
+ISP/System : Shalus
+IP address : 16.254.24.5.254.004
+Subnet mask : 24502.545.54.2.45.2.54.245
+Gateway : Power Overwhelming
+Primary DNS : PRMARYDNS
+Secondary DNS : SECONDARYDNS
+WINS : GOLD!
+SMTP : TMNT
+POP3 : POPPY
+NNTP : No Noses To Pill
+FTP : Fun To Play
+Telnet : Telnats
+Helpline : 1-800-helpsssss
+Website : internet.foreveryone
+Billing info : Money
+Note : More notes here12
+
+Title : Server1
+Admin login : branden
+Admin password : password12
+Admin URL : adminurl
+Service : service4u
+Tasks : lotsoftasks
+OS : Windows 95
+RAM : 1mb
+Storage : 10mb
+CPU : Potato
+RAID : Nothx
+Location : Japan
+IP address : 32.312.32.123.21
+DNS : DNSDNSDNS
+Port : port
+Hosting provider : shalus
+Support website : shalus.notarealcompany
+Helpline : 1-800-nohelpthistimesorry
+Billing info : doyoutakecredit?
+Note : Notes here again..........13
+
+Title : Web hosting1
+Provider : GostHater
+Username : branden
+Password : password14
+Admin URL : adminurl4ghostgater
+OS : Windows2
+Customer ID : brandenid
+HTTP : http1
+FTP : ftp1
+Database : databees
+Services : lookbothwaysbeforecrossingthestreet
+Support website : support4website.ok
+Helpline : 1-800-helpimgettingddos
+Fee : $meh
+Note : notes here15
+
+Title : Wireless router1
+Station name : c121sd4654
+Station password : stationpassword
+Network name : da8s7da89sd7
+Network password : networdpassword
+Security : waterwall
+MAC/Airport # : 13465456445
+Server/IP address : 6523132.231.64.6515
+Username : branden
+Password : password16
+Storage password : sotragepassword15
+Support website : support.4.my.router
+Billing info : idunno
+Note : notes for every element..... 16
+
+Title : Other computer1
+Field 1 : MyComputerStuff
+Field 2 : TOtally legit stuff
+Note : Notes here!17
+
+Title : Password1
+Login : branden
+Password : ihopeit'snotpassword
+Access : superr00t
+Note : Notes for password 18
+
+Title : Note1
+Note : Super Secure note
+
+Title : Note2
+Note : Super duper secure note
+So scure it hurts
+
+wow such secure
+I hope you can'read this
+
+Title : Flight detail2
+Flight number : 1337
+Airline : Planerus
+Date : Tomorrow
+From : Here
+To : There
+Time/Gate : 5am
+E-Ticket number : 798745465
+Confirm # : 545645467
+Website : flymetothemoonandback.ok
+Username : branden
+Password : password19
+Phone : 1234543274
+Note : Notes for my flight 18
+
+Title : Frequent flyer1
+Membership No. : 1337789
+Name : Brandy
+Airline : FlyAwayLikeABird Co.
+Date : Tomorrow
+Mileage : What Is A Mile
+Website : FlyAwayLikeABird.nope
+Username : branden
+Password : password20
+Customer service : 1-800-doordonotthereisnotry
+Note : Yoda's notes 20
+
+Title : Hotel reservation1
+Hotel name : BestHotelEvar
+Room number : 1
+Address : 123 NotFake Street
+Reservation ID : 564745
+Date : Tomorrow
+Nights : 0.1
+Hotel reward : Sweet
+Phone : 15647324
+Email : BestHotelEvar@BestHotelEvar.sleep
+Website : BestHotelEvar.sleep
+Username : branden
+Password : password21
+Concierge : This guy
+Restaurant : This restaurant
+Note : note 787897 21
+
+Title : Passport1
+Number : 789879498897789798798798789798789798
+Full name : Branden Fungus
+Sex : M
+Type : Passport
+Nationality : Canadian
+Birth place : Canada
+Birthday : July 17 1879
+Issued at : Canada?
+Issued on : Yesterday
+Expiry date : idunnoithinklike10years?
+Issuing country : CANADA
+Authority : what
+Replacements : none
+If lost, call : me.... maybe
+Note : Notes for my passport 22
+
+Title : Travelling visa1
+Type : travelling visa
+Country : CANADIA
+Full name : Branden
+Number : 98789778789978798779879878987
+Valid for : 6997897
+Valid from : TOday
+Valid until : TOmorrow
+Duration : 24hours
+No. of entries : 4564654
+Issued by : Tom
+Issue date : Yesteryear
+Passport number : 8979878948551
+Remarks : none
+If lost, call : me please
+Note : hasjkdhkjsada notes okay... 23
+
+Title : Other travel1
+Field 1 : other travel stuff
+Field 2 : travlling around the world
+Note : 80 days around the world 23
+
+Title : Address1
+Name : BRanden
+Door No : 8
+Street : 123 Fake Ave
+Locality : Nope
+City : Canada
+State : Dude
+Zip : 123456
+Country : USA
+Phone : 13246541324132
+Email : what?
+Note : notes 24
+
+Title : Calling card1
+Access number : 456456465564465
+Provider : callcardco
+Card number : 76553244233
+PIN : 12234
+Pulse rate : 200
+Expiry date : yesterday
+Usage : lots
+Website : callcardco.oops
+Username : branden
+Password : password24
+If lost, call : my cellphone because i don't have a home phone
+Note : MORE NOTES AHHHHHHHHH 24
+
+Title : Cell Phone info1
+Handset Model : Nokeo
+IMEI : MAYBE
+Lock code : 1234
+SIM type : Funny
+SIM Number : 2funny4u
+PIN : 1324
+PUK : Whoa
+IMSI : I MIGHT SEE IT
+Purchased on : nov 12 1973
+Warranty : oh, ok
+Note : notes 30
+
+Title : Cloth size1
+Name : Branden
+Suit : None
+Shoe : LARGE
+Shirt : Tshirt please its too hot right now for anything else
+Pants : Shorts
+Inseam : Outseam
+Skirt : Size 12
+Gloves : I dont know glove sizes
+Waist : 2in
+Neck : what neck
+Note : Notes ? 31
+
+Title : Combination lock1
+Location : For my locker
+Code : 111
+Note : Locker combo 32
+
+Title : Contact1
+First Name : Branden
+Last Name : Branden2
+Company : Branden co
+Phone (H) : 13437324732
+Phone (M) : 412344324
+Phone (O) : 423432743416541
+Email : branden@branden888989078970.neat
+Note : Notes about this guy 33
+
+Title : Emergency numbers1
+Police : 119
+Fire Depart : 119
+Ambulance : 119
+Doctor : 119
+Dentist : 119
+Vet : 119
+Electric Company : 119
+Gas Company : 119
+Phone Company : 119
+Landlord : 119
+Other : 119
+Note : Notes for emergency 33
+
+Title : ISIC card1
+Card number : 8989778798798
+Studies at : School
+Full name : Branden
+Born : Tomorrow
+Issued on : Today
+Expiry date : Yesterday
+If lost, call : the school
+Note : What is a ISIC card again? 34
+
+Title : ITIC card1
+Card number : 556446465656
+Teaches at : School
+Full name : Branden
+Born : Now
+Issued on : Tomorrow
+Expiry date : Yesterday
+If lost, call : Him
+Note : What is a ITIC card? 35
+
+Title : ITZ card1
+Card number : 484564564
+Owner : Branden
+PIN : 1111
+Value : Idunno
+Expiry date : dec 25, 2222
+Usage : sometimes
+Website : website
+Username : branden
+Password : password35
+If lost, call : 455466454664
+Note : notes around here 35
+
+Title : Lens prescription1
+Type : Lens
+Right(OD) : 44564
+Left(OS) : 65456654
+Doctor : Dr. Dr
+Phone : 655++65+65+5+56
+Note : iwearglasses 36
+
+Title : Library card1
+Card number : 984879789987
+Library : .lib
+PIN : 8786
+Hours : 24/7
+Address : 123 Cake Street
+Issued on : Long time ago
+Expiry date : Now
+Website : thelibraryisfun.books
+Username : branden
+Password : password36
+If lost, call : thelibrary
+Note : library notes 36
+
+Title : Membership card1
+Member ID : 654456
+Member name : Branden
+Organization : something
+Group : 1
+PIN : 54324
+Phone : 123743123
+Member since : Tomorrow
+Expiry date : Uh
+Website : membershipstuff.signupnow
+Username : branden
+Password : password36
+Email : membershipstuff.signupnowemail
+If lost, call : thestuf
+Note : notes!!!! 36
+
+Title : PAN card1
+Number : 4564656454
+Name : Brann
+Father's Name : Brann
+Birth Date : Jan 6 1782
+Website : nowebsiteforthis
+Username : branden
+Password : password37
+If lost, call : 75465464645
+Note : notes 37
+
+Title : Prescription1
+Doctor : Dr. Tran
+RX # : 54456464654
+Name : Branden
+Pharmacy : ThePharm
+Phone : 546454533773
+Brand : Oreos
+Drug : Sugar
+Amount : too much
+Take : 4 per day is nice
+Note : Oreos are good 37
+
+Title : Property info1
+Owner : The Landlord
+Address : 123432467841
+Type : Lease
+Maintaince amount : $2000
+Property ID : 75674567
+Tax amount : $2312323
+Tax due date : Tomorrow
+Webpage : 545646544.46544656545
+Username : branden
+Password : password38
+Insurance : Nope
+Insurance premium : Maybe
+Policy number : 132123123
+Expiry date : 4365548
+Insurance helpline : 46487415413
+Note : monopoly is fun 38
+
+Title : Registration code1
+Name : Branden
+Number : 78978979878945
+Date : now
+Note : note 39
+
+Title : Reward program1
+Company : Buy1Get1Free
+Name : Branden
+Member ID : 5474864684
+Number : 65465465
+PIN : 4567654
+Number 2 : 6546557
+Since : Tomorrow
+Helpline : 1-800-buymorethings
+Reservations phone : 4145646564
+Website : Buy1Get1Free.freestuff4every1
+Note : Rewards are great
+
+Title : Serial number1
+Serial : 4576432
+Brand : Cheerios
+Model : d4sa56d4a
+Price : 1337
+Purchased on : jan 4
+Warranty : none
+Location : Canada
+Note : 5d4a56s4d65d4as65 NOOOOOOOOOTES 39
+
+Title : Service provider1
+Provider : SomeProvider
+Service type : SomeService
+Consumer Id : SomeId
+Subscription ID : SomeSUbId
+Address : SomeAdd
+Website : SomeWeb
+Username : Someuser
+Login password : somepassword
+Helpline : Somehelpline
+Note : SomeNotes 40
+
+Title : Social Security Number1
+Number : IDONTREMEBER
+Name : Branden
+Date : dato
+Note : NoteSIN 41
+
+Title : Vehicle info1
+Registration No. : 45345
+Owner : Branden
+Model : NiceCar
+Vehicle type : Car
+Purchase date : Testerday
+Made : InChina
+Year : 2016
+VIN : VROOM
+Service phone : 456456456
+Onroad helpline : 56467756
+Insurance Provider : Sure
+Insurance amount : 8655456
+Policy number : 54654654
+Expiry date : 6546545
+Insurance phone : 6545646574
+Note : I'm getting tired of this 42
+
+Title : Voice mail1
+Access number : VoiceMailz
+PIN : 45465657
+Note : Please leave a message after the tone. ok.
+
+Title : Voter card1
+Full name : Branden
+Voter ID : 41567864854785646545643
+Address : 465465465657574 Fun Street
+Ward : 2
+Location : Canada
+Congress : Canadian Congress
+State senate : CANADA
+Representative : A CANADIAN
+Address : CANADIAN ADDRESS
+Issued on : CANADIAN SOIL
+Website : CANADIANWBESITE.CA
+Username : BRANDEN
+Password : CANADIANPASSWORD
+If lost, call : canadA
+Note : REMEMBER TO VOTE!
+
+Title : Other Miscellaneous1
+Field 1 : FINALLY DONE
+Field 2 : YESSSS!
+Note : LAST NOTE!!!!!!!!!!!!!!!!!!
+
+Title : NewNoteHere!
+Note : OkayNewNote
+
+Title : Facebook
+Username : only1field
+Title : Credit card BUG
+Cardholder : SomePersonHere
+Type : Other
+Title : Login Bug
+Username : brandenf
+Title : Login bug2
+Username : name
+Note : note
+
+Title : Loginbug 3
+Username : name
+Email : email
+Password : pass
+Title : Loginbug4
+Username : username
+Email : dasdasdadasdasd
+Password : sadsa
+Phone : asd
+Url : asdasdasda
+Security answer : sda
+Title : LoginBug5
+Username : dasdas
+Email : das
+Password : ewtweqeq
+Phone : twetre
+Url : tq
+Note : fasfdsaa
+
+Title : LoginBug6
+Username : fdsasdfgd
