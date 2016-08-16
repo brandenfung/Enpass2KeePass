@@ -60,6 +60,7 @@ public class EnpassEntry {
 			this.username  = null;
 			this.password  = null;
 			this.url  = null;
+			this.note = null;
 			this.customFields.clear();
 		}
 

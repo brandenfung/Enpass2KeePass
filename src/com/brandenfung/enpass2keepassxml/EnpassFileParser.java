@@ -51,11 +51,14 @@ public final class EnpassFileParser {
 	private static final String CUSTOM_FIELD_REGEX = "(?<=^.*?\\s:\\s)";
 
 	/**
-	 * 
-	 * @param filepath
-	 * @return
+	 *  Parse an exported Enpass .txt file into {@link EnpassEntry} 
+	 *  items.
+	 *  
+	 * @param filepath Path of the .txt file.
+	 * @return List of {@link EnpassEntry} populated with data from
+	 * 			the text file.
 	 */
-	protected static ArrayList<EnpassEntry> parseEnpassFile(String filepath) 
+	public static ArrayList<EnpassEntry> parseEnpassFile(String filepath) 
 			throws EnpassFileParserException{
 
 		ArrayList<EnpassEntry> items = new ArrayList<>();

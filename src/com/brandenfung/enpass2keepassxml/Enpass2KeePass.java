@@ -13,14 +13,12 @@ public class Enpass2KeePass {
 	private static final String ROOT_FILENAME = "Enpass2KeePass";
 
 	/**
-	 * 
-	 * 
 	 * @param args args[0] is the input txt file, args[1] is the output 
 	 * 			   file directory
 	 */
 	public static void main(String[] args) {
 
-		if (args.length == 0 || args.length == 1) {
+		if (args.length < 2) {
 			System.out.println("Must specify a valid input " + 
 					"Enpass exported .txt file and " + 
 					"a valid output directory as arg1 and arg2.");		

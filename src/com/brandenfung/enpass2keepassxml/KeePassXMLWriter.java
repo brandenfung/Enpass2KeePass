@@ -121,7 +121,7 @@ public class KeePassXMLWriter {
 	 * @param enpassEntries Enpass Entries to write to the KeePass xml
 	 * @param outputPath Output path of the KeePassxml
 	 */
-	protected static void writeKeePassXml2(ArrayList<EnpassEntry> enpassEntries, String outputPath) {
+	public static void writeKeePassXml2(ArrayList<EnpassEntry> enpassEntries, String outputPath) {
 		try {
 			DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder docBuilder = docFactory.newDocumentBuilder();

@@ -1,0 +1,38 @@
+Title : Yahoo2
+Username : Harold
+Email : myyahoo2@yahoo.com
+Password : .L&Jtx^m4aTk*84-YY
+Title : Email
+Note : mycousinsemail@email.com
+
+Title : brady
+Note : brady@brady.com
+
+
+Name : Johnson
+Cell : 465746554
+Home Phone : 1324453
+Blood Type: O
+
+Title : myhotmail
+Username : hotmail
+Email : yogurt@hotmail.coooom
+Password : 6nf(4wY2XChQU!]q]*
+Phone : gdfsgdfsg
+Security question : what is my cats name
+Security answer : jon
+Note : some notes for hotmail
+
+Title : myyahoo
+Username : yahoo
+Email : yahoo@yahoo.com
+Password : 6nf(4wY2XChQU!]q]*
+Phone : 12345531
+Security question : What is my dogs name
+Security answer : Joe
+Title : Birthday
+Title : Gmail
+Username : brendan
+Email : something@gmail.cooom
+Password : .L&Jtx^m4aTk*84-YY
+Url : gmail.com
